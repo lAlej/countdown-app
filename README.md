@@ -8,7 +8,7 @@ Este proyecto fue realizado utilizando HTML, CSS y Javascript, como dice el nomb
 * [LinkedIn](https://www.linkedin.com/in/lapee/)
 
 ## Ver ejemplo en vivo 💻
-- [enlacegithubpages] (gh pages)
+- [https://lalej.github.io/countdown-app/](https://lalej.github.io/countdown-app/)
 
 ## Instalación 📀
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
